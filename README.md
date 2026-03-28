@@ -13,7 +13,7 @@ Resume of Krish Maheshwari | Data Science, Business Analyst &amp; Product Analys
 ## 📊 Projects
 ## 📊 Projects
 
-- [Inventory Optimization](https://github.com/RageKrish/inventory-optimization-sql-powerbi](https://github.com/RageKrish/Inventory-Monitoring-Optimization-using-SQL-Power-BI)
+- [Inventory Optimization](https://github.com/RageKrish/inventory-optimization-sql-powerbi](https://github.com/RageKrish/Inventory-Monitoring-Optimization-using-SQL-Power-BI )
 - [Credit Risk Prediction](https://github.com/RageKrish/credit-risk-default-prediction)
 - [Airline Delay Analysis](https://github.com/RageKrish/airline-delay-analysis)
 - [Brand Sentiment Analysis](https://github.com/RageKrish/brand-sentiment-analysis)
